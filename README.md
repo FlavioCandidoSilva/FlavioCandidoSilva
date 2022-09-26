@@ -1,4 +1,4 @@
-## Eae galera eu sou Flávio cândido, programador junior full stack em linguagem PHP!
+## developer junior
 
 <!-- <div align="center">
   <a href="https://github.com/FlavioCandidoSilva">
