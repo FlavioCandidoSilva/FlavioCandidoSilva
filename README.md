@@ -29,5 +29,5 @@ Systems analyst and developer
   ![snake gif](https://github.com/FlavioCandidoSilva/FlavioCandidoSilva/blob/output/github-contribution-grid-snake.svg)
 
  
- 
+
 </div>
