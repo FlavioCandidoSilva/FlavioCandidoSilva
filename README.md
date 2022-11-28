@@ -24,10 +24,6 @@ Systems analyst and developer
   <a href = "mailto:flaviosilvepolicarpo@gmail.com
 "><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fl%C3%A1vio-c%C3%A2ndido-530b43223/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a target="_blank"><img src= https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F27594%2Flaravel&psig=AOvVaw0CSCu_52BqBi-kAoxTdb8U&ust=1669745496028000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOCE9Ou80fsCFQAAAAAdAAAAABAE" target="_blank"></a>
- 
-
-
 </div>
 
 
