@@ -59,5 +59,6 @@
 ---
 
 <div align="center">
-  <img src="[![image](https://github.com/user-attachments/assets/81c04f91-4120-48e7-aa2a-ca238b36b08d)](https://i.pinimg.com/originals/8b/a2/c4/8ba2c4aa8d5bac8528679f0bcfc6c3d1.gif)" height="250px"/>
+  <img src="https://i.pinimg.com/originals/8b/a2/c4/8ba2c4aa8d5bac8528679f0bcfc6c3d1.gif" height="250px"/>
 </div>
+
