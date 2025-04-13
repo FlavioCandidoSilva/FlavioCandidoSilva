@@ -59,5 +59,6 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXo1djdmb3ViZW5rY3oxNzFwZzR4c25nNnptdmR4aHZ2bXRuNzZzOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9phgdhpHOz8jraEsdi/giphy.gif" height="250px"/>
+  <img src="![image](https://github.com/user-attachments/assets/81c04f91-4120-48e7-aa2a-ca238b36b08d)
+" height="250px"/>
 </div>
