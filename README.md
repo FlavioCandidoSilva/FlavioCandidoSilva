@@ -58,6 +58,6 @@
 
 ---
 
-<div align="right">
-  <img alt="Flavio-pic" height="150" style="border-radius:50px;" src="https://64.media.tumblr.com/f683fafb650ff513fb9297f6e3cbeca5/94f36ac9ecfb6135-92/s1280x1920/81bb1b5860c3ddffb0274e4b5f5014f15ffa9dd6.jpg">
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXo1djdmb3ViZW5rY3oxNzFwZzR4c25nNnptdmR4aHZ2bXRuNzZzOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9phgdhpHOz8jraEsdi/giphy.gif" height="250px"/>
 </div>
