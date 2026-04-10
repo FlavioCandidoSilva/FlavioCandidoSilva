@@ -1,5 +1,5 @@
 # 💫 About Me:
-💡 What I Do<br>🔹 Full stack development <br>🔹 Clean Architecture, DDD, and SOLID principles<br>🔹 Async job queues using BullMQ, RabbitMQ, and Google Cloud Tasks<br>🔹 Application monitoring, logging systems, and scalable APIs<br>🔹 Dockerized development environments
+💡 What I Do<br>🔹 Full stack development <br>🔹 Clean Architecture, DDD, and SOLID principles<br>🔹 Async job queues using BullMQ, RabbitMQ, Kafka , and Google Cloud Tasks<br>🔹 Application monitoring, logging systems, and scalable APIs<br>🔹 Dockerized development environments
 
 
 ## 🌐 Socials:
